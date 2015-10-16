@@ -1,0 +1,20 @@
+/* code your banner design here */ 
+.banner {
+	height: 500px;
+	width: 100%;
+	background-image: url(https://images.unsplash.com/photo-1443479579455-1860f114bf77?q=80&fm=jpg&s=dc7000360dec6e5368d1ed3e4d0b38ae);
+	background-size: 100% 100%;
+	padding-top: 50px;
+
+}
+
+.banner h1, .banner h2 {
+	font-family: Raleway, Helvetica, sans-serif;
+	color: white;
+	text-shadow: 1px 1px 1px grey;
+}
+
+h3 {
+	color: #666666;
+}
+

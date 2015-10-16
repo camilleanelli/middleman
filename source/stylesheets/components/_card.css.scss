@@ -1,0 +1,41 @@
+/* code your card design here */
+
+.icon {
+	height: 23px;
+	width: 27px;
+	
+}
+
+.cards1 {
+	padding: 100px;
+}
+
+.cards2 {
+	padding: 50px;
+}
+
+h3 {
+	color: #666666;
+}
+
+p {
+	color: #B3B3B3;
+}
+
+.card {
+	height: 200px;
+	background-image: url('http://unsplash.it/500/300/?image=2');
+	background-size: 100% 100%;
+	position: relative;
+}
+
+.popular{
+	color: black;
+}
+
+.card h1 {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+
+}
